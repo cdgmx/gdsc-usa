@@ -12,7 +12,7 @@ function MyApp({ Component, pageProps }) {
   <div className="container">
       <Component {...pageProps} />
   </div>
-  <Footer/>
+    <Footer/>
 </Layout>
   )
 }
